@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-movie-title {
+  font-family: 'Cinzel', serif;
+}
+
+.font-movie-display {
+  font-family: 'Playfair Display', serif;
+}
